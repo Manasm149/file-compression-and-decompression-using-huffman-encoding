@@ -19,15 +19,7 @@ Huffman Coding is a greedy algorithm used for lossless data compression. It assi
 - The original file is converted to a compressed binary form.
 - Decompression reads the binary and reverses the process using the tree.
 
-## 📁 File Structure
 
-├── encoder.cpp # Compresses a file using Huffman coding
-├── decoder.cpp # Decompresses a .huff file back to text
-├── huffman.h # Shared definitions and constants
-├── enocode_.txt # (Example input) Text file to compress
-├── encoded_.txt # Compressed binary file
-├── decode_.txt # Output after decompression
-├── README.md # You are here
 
 ## 🔧 Build & Run
 
